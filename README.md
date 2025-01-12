@@ -8,5 +8,5 @@
 Реализованный проект представляет собой сайт для составления краткой выдержки из научных статей с помощью нейросети.<br>
 Используемая модель: [Fine-Tuned T5](https://huggingface.co/Falconsai/text_summarization) <br>
 ![sitepreview](https://github.com/user-attachments/assets/574082d0-20aa-4fe6-85d2-bcce078e7655) <br>
-Пример входных данных: <br>
-[Uploading 2412.00012.pdf…]()
+Пример входной статьи: [The Femininomenon of Inequality: A Data-Driven Analysis and Cluster Profiling in Indonesia](https://arxiv.org/html/2412.00012v1) <br>
+
